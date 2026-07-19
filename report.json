@@ -1,0 +1,21 @@
+{
+  "paired_subtasks": 2,
+  "gaps": [
+    {
+      "task": "fold-shirt",
+      "subtask": "align-sleeve",
+      "sim_success_rate": 1.0,
+      "real_success_rate": 0.0,
+      "absolute_gap": 1.0,
+      "contact_errors": 2
+    },
+    {
+      "task": "fold-shirt",
+      "subtask": "grasp-corner",
+      "sim_success_rate": 1.0,
+      "real_success_rate": 0.5,
+      "absolute_gap": 0.5,
+      "contact_errors": 1
+    }
+  ]
+}
